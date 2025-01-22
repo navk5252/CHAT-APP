@@ -6,3 +6,4 @@ Some Features:
 -   🚀 Online user status (Socket.io and React Context)
 -   👌 Global state management with Zustand
 -   🐞 Error handling both on the server and on the client
+View App -https://chat-app-9wu1.onrender.com/login
